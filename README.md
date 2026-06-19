@@ -1,12 +1,12 @@
-# Space Defender 🚀
+# Space Defender 
 
 A classic arcade-style space shooter built with **HTML5 Canvas** and **JavaScript**. Defend your ship from waves of alien invaders, collect power-ups, and aim for the highest score!
 
-## 🎮 Play the Game
+##  Play the Game
 
 Simply open `index.html` in any modern web browser — no installation required!
 
-## 🕹️ Controls
+##  Controls
 
 | Key | Action |
 |-----|--------|
@@ -14,7 +14,7 @@ Simply open `index.html` in any modern web browser — no installation required!
 | `SPACE` | Shoot |
 | `P` | Pause / Resume |
 
-## ✨ Features
+##  Features
 
 - **4 Enemy Types** — Basic, Fast, Tank, and Shooter aliens with unique behaviors
 - **Power-ups** — Rapid Fire, Spread Shot, Shield, and Extra Life
@@ -23,7 +23,7 @@ Simply open `index.html` in any modern web browser — no installation required!
 - **High Score** — Saved locally in your browser
 - **Starfield Background** — Animated space backdrop
 
-## 🚀 Power-ups
+##  Power-ups
 
 | Icon | Name | Effect |
 |------|------|--------|
@@ -32,7 +32,7 @@ Simply open `index.html` in any modern web browser — no installation required!
 | **SH** | Shield | Temporary invincibility |
 | **♥** | Extra Life | +1 life (max 5) |
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 space-defender/
@@ -42,7 +42,7 @@ space-defender/
 
 The entire game is contained in a single HTML file for easy deployment and sharing!
 
-## 🌐 Deployment
+##  Deployment
 
 This game can be deployed anywhere static files are served:
 
@@ -51,7 +51,7 @@ This game can be deployed anywhere static files are served:
 - **Vercel** — Instant deployment from GitHub
 - **Any web server** — Just serve the `index.html` file
 
-## 🛠️ How It Works
+##  How It Works
 
 The game is built entirely in the browser using:
 
@@ -60,10 +60,10 @@ The game is built entirely in the browser using:
 - **CSS** — HUD styling and overlay screens
 - **localStorage** — Persisting high scores between sessions
 
-## 📜 License
+##  License
 
 This project is open source and available for personal use and modification.
 
 ---
 
-Built with 💚 by [Tatenda Nelson](https://github.com/TatendaNelson)
+Built by [Tatenda Nelson](https://github.com/TatendaNelson)
